@@ -3,8 +3,7 @@
 First thing to do:
 1. Download the NIGENS dataset: https://zenodo.org/records/2535878
 2. In each algorithm's .py file, you can change the dataset path to your dataset's location.
-# Path to dataset
-data_path = "NigensAudio"
+data_path = "NigensAudio" // change the " " to your dataset's location
 
 This study examines the performance of several machine learning and deep learning algorithms in classifying sounds from the NIGENS dataset, which consists of 15 unique sound classes. The implementation included five distinct algorithms: Convolutional Neural Networks (CNN), k-Nearest Neighbors (KNN), Support Vector Machines (SVM), Long Short-Term Memory Networks (LSTM), and Random Forest. The models' performances are evaluated using classification measures such as Accuracy, precision, recall, F1-score, and Receiver Operating Characteristic (ROC) curves. The Random Forest method demonstrates the best overall accuracy of 86% when compared to other algorithms, with precision, recall, and F1-score values of 0.88, 0.86, and 0.86. 
 
