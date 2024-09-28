@@ -1,4 +1,4 @@
-# Sound Classification on NIGENS Dataset using CNN, KNN, SVM, LSTM and Random Forest
+#Sound Classification on NIGENS Dataset using CNN, KNN, SVM, LSTM and Random Forest
 
 First thing to do:
 1. Download the NIGENS dataset: https://zenodo.org/records/2535878
